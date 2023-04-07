@@ -9,7 +9,6 @@ The Work-Life Balance Timer is a user-friendly desktop application designed to h
 - Start, pause, and stop functionality for both work and entertainment modes
 - Displays the time remaining for entertainment based on work time accrued
 - Audio cues for transitioning between modes and reaching the end of entertainment time
-- Ability to play background music during work mode
 
 ## Usage
 1. Launch the application to see the main timer window with two buttons: Start Work and Start Entertainment.
@@ -27,7 +26,11 @@ The Work-Life Balance Timer is a user-friendly desktop application designed to h
 ## Installation
 1. Clone the repository or download the source code.
 2. Install the required libraries using pip:
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 3. Run the application by executing the `main.py` file:
-`python main.py`
+```
+python main.py
+```
 Start your journey towards a healthier work-life balance with the Work-Life Balance Timer!
